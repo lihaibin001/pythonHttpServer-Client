@@ -1,0 +1,1600 @@
+XGCS
+
+NoTask 
+[
+ {
+  "Next": 0, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }
+]
+
+XGCS
+[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "Function": 65, 
+  "INDEX": 1, 
+  "ADDR": 1230, 
+  "VAL": 65535
+ }, 
+ {
+  "Function": 65, 
+  "INDEX": 2, 
+  "ADDR": 1230, 
+  "VAL": 65535
+ }
+]
+
+JBGJ
+[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "INDEX": 1, 
+  "MARK2": 255, 
+  "X1scale": 340, 
+  "Function": 67, 
+  "Y2scale ": 340, 
+  "LEN": 120, 
+  "X2scale": 340, 
+  "Y1scale ": 340, 
+  "MARK1 ": 255, 
+  "EDID": 1234567890, 
+  "DATA1": [
+   34, 
+   1, 
+   0, 
+   56, 
+   78, 
+   0, 
+   123, 
+   33
+  ]
+ }
+]
+
+KSGJ
+[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "Function": 66, 
+  "INDEX": 1, 
+  "Yscale ": 340, 
+  "MODE": 120, 
+  "DATA3": 340, 
+  "EDID": 1234567890, 
+  "DATA4": 340, 
+  "DATA1": 340, 
+  "Xscale": 340, 
+  "DATA2": 340
+ }
+]
+
+HEART: [
+ {
+  "Total": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Function": 64, 
+  "APID": 1234567890, 
+  "VER": 0, 
+  "XD2": 3, 
+  "XD1": 2, 
+  "PANID": 12045, 
+  "BACK2": 0, 
+  "BACK3": 0, 
+  "BACK1": 0
+ }
+]
+
+JiaQian[
+ {
+  "Total": 1,
+  "SEQUENCE": 1
+ },
+ {
+  "INDEX": 1,
+  "VER": 0,
+  "VoL": 340,
+  "BACK3": 0,
+  "LQI": 120,
+  "XD1": 340,
+  "Function": 68,
+  "BACK2": 0,
+  "PANID1": 340,
+  "PANID2": 340,
+  "BACK1": 0,
+  "EDID": 1234567890,
+  "FAC": 340,
+  "TYPE": 340,
+  "XD2": 340
+ }
+]
+
+YJSC[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "INDEX": 1, 
+  "VER": 0, 
+  "VoL": 340, 
+  "BACK3": 0, 
+  "LQI": 120, 
+  "XD1": 340, 
+  "Function": 68, 
+  "BACK2": 0, 
+  "PANID1": 340, 
+  "PANID2": 340, 
+  "BACK1": 0, 
+  "EDID": 1234567890, 
+  "FAC": 340, 
+  "TYPE": 340, 
+  "XD2": 340
+ }, 
+ {
+  "INDEX": 2, 
+  "VER": 0, 
+  "VoL": 340, 
+  "BACK3": 0, 
+  "LQI": 120, 
+  "XD1": 340, 
+  "Function": 68, 
+  "BACK2": 0, 
+  "PANID1": 340, 
+  "PANID2": 340, 
+  "BACK1": 0, 
+  "EDID": 1234567890, 
+  "FAC": 340, 
+  "TYPE": 340, 
+  "XD2": 340
+ }, 
+ {
+  "INDEX": 3, 
+  "VER": 0, 
+  "VoL": 340, 
+  "BACK3": 0, 
+  "LQI": 120, 
+  "XD1": 340, 
+  "Function": 68, 
+  "BACK2": 0, 
+  "PANID1": 340, 
+  "PANID2": 340, 
+  "BACK1": 0, 
+  "EDID": 1234567890, 
+  "FAC": 340, 
+  "TYPE": 340, 
+  "XD2": 340
+ }
+]
+
+123123
+NoTask 
+[
+ {
+  "Next": 0, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }
+]
+
+XGCS
+[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "Function": 65, 
+  "INDEX": 1, 
+  "ADDR": 1230, 
+  "VAL": 65535
+ }, 
+ {
+  "Function": 65, 
+  "INDEX": 2, 
+  "ADDR": 1230, 
+  "VAL": 65535
+ }
+]
+
+JBGJ
+[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "INDEX": 1, 
+  "MARK2": 255, 
+  "X1scale": 340, 
+  "Function": 67, 
+  "Y2scale ": 340, 
+  "LEN": 120, 
+  "X2scale": 340, 
+  "Y1scale ": 340, 
+  "MARK1 ": 255, 
+  "EDID": 1234567890, 
+  "DATA1": [
+   34, 
+   1, 
+   0, 
+   56, 
+   78, 
+   0, 
+   123, 
+   33
+  ]
+ }
+]
+
+KSGJ
+[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "Function": 66, 
+  "INDEX": 1, 
+  "Yscale ": 340, 
+  "MODE": 120, 
+  "DATA3": 340, 
+  "EDID": 1234567890, 
+  "DATA4": 340, 
+  "DATA1": 340, 
+  "Xscale": 340, 
+  "DATA2": 340
+ }
+]
+
+HEART: [
+ {
+  "Total": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Function": 64, 
+  "APID": 1234567890, 
+  "VER": 0, 
+  "XD2": 3, 
+  "XD1": 2, 
+  "PANID": 12045, 
+  "BACK2": 0, 
+  "BACK3": 0, 
+  "BACK1": 0
+ }
+]
+
+JiaQian[
+ {
+  "Total": 1,
+  "SEQUENCE": 1
+ },
+ {
+  "INDEX": 1,
+  "VER": 0,
+  "VoL": 340,
+  "BACK3": 0,
+  "LQI": 120,
+  "XD1": 340,
+  "Function": 68,
+  "BACK2": 0,
+  "PANID1": 340,
+  "PANID2": 340,
+  "BACK1": 0,
+  "EDID": 1234567890,
+  "FAC": 340,
+  "TYPE": 340,
+  "XD2": 340
+ }
+]
+
+YJSC[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "INDEX": 1, 
+  "VER": 0, 
+  "VoL": 340, 
+  "BACK3": 0, 
+  "LQI": 120, 
+  "XD1": 340, 
+  "Function": 68, 
+  "BACK2": 0, 
+  "PANID1": 340, 
+  "PANID2": 340, 
+  "BACK1": 0, 
+  "EDID": 1234567890, 
+  "FAC": 340, 
+  "TYPE": 340, 
+  "XD2": 340
+ }, 
+ {
+  "INDEX": 2, 
+  "VER": 0, 
+  "VoL": 340, 
+  "BACK3": 0, 
+  "LQI": 120, 
+  "XD1": 340, 
+  "Function": 68, 
+  "BACK2": 0, 
+  "PANID1": 340, 
+  "PANID2": 340, 
+  "BACK1": 0, 
+  "EDID": 1234567890, 
+  "FAC": 340, 
+  "TYPE": 340, 
+  "XD2": 340
+ }, 
+ {
+  "INDEX": 3, 
+  "VER": 0, 
+  "VoL": 340, 
+  "BACK3": 0, 
+  "LQI": 120, 
+  "XD1": 340, 
+  "Function": 68, 
+  "BACK2": 0, 
+  "PANID1": 340, 
+  "PANID2": 340, 
+  "BACK1": 0, 
+  "EDID": 1234567890, 
+  "FAC": 340, 
+  "TYPE": 340, 
+  "XD2": 340
+ }
+]
+
+123
+123
+NoTask 
+[
+ {
+  "Next": 0, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }
+]
+
+XGCS
+[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "Function": 65, 
+  "INDEX": 1, 
+  "ADDR": 1230, 
+  "VAL": 65535
+ }, 
+ {
+  "Function": 65, 
+  "INDEX": 2, 
+  "ADDR": 1230, 
+  "VAL": 65535
+ }
+]
+
+JBGJ
+[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "INDEX": 1, 
+  "MARK2": 255, 
+  "X1scale": 340, 
+  "Function": 67, 
+  "Y2scale ": 340, 
+  "LEN": 120, 
+  "X2scale": 340, 
+  "Y1scale ": 340, 
+  "MARK1 ": 255, 
+  "EDID": 1234567890, 
+  "DATA1": [
+   34, 
+   1, 
+   0, 
+   56, 
+   78, 
+   0, 
+   123, 
+   33
+  ]
+ }
+]
+
+KSGJ
+[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "Function": 66, 
+  "INDEX": 1, 
+  "Yscale ": 340, 
+  "MODE": 120, 
+  "DATA3": 340, 
+  "EDID": 1234567890, 
+  "DATA4": 340, 
+  "DATA1": 340, 
+  "Xscale": 340, 
+  "DATA2": 340
+ }
+]
+
+HEART: [
+ {
+  "Total": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Function": 64, 
+  "APID": 1234567890, 
+  "VER": 0, 
+  "XD2": 3, 
+  "XD1": 2, 
+  "PANID": 12045, 
+  "BACK2": 0, 
+  "BACK3": 0, 
+  "BACK1": 0
+ }
+]
+
+JiaQian[
+ {
+  "Total": 1,
+  "SEQUENCE": 1
+ },
+ {
+  "INDEX": 1,
+  "VER": 0,
+  "VoL": 340,
+  "BACK3": 0,
+  "LQI": 120,
+  "XD1": 340,
+  "Function": 68,
+  "BACK2": 0,
+  "PANID1": 340,
+  "PANID2": 340,
+  "BACK1": 0,
+  "EDID": 1234567890,
+  "FAC": 340,
+  "TYPE": 340,
+  "XD2": 340
+ }
+]
+
+YJSC[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "INDEX": 1, 
+  "VER": 0, 
+  "VoL": 340, 
+  "BACK3": 0, 
+  "LQI": 120, 
+  "XD1": 340, 
+  "Function": 68, 
+  "BACK2": 0, 
+  "PANID1": 340, 
+  "PANID2": 340, 
+  "BACK1": 0, 
+  "EDID": 1234567890, 
+  "FAC": 340, 
+  "TYPE": 340, 
+  "XD2": 340
+ }, 
+ {
+  "INDEX": 2, 
+  "VER": 0, 
+  "VoL": 340, 
+  "BACK3": 0, 
+  "LQI": 120, 
+  "XD1": 340, 
+  "Function": 68, 
+  "BACK2": 0, 
+  "PANID1": 340, 
+  "PANID2": 340, 
+  "BACK1": 0, 
+  "EDID": 1234567890, 
+  "FAC": 340, 
+  "TYPE": 340, 
+  "XD2": 340
+ }, 
+ {
+  "INDEX": 3, 
+  "VER": 0, 
+  "VoL": 340, 
+  "BACK3": 0, 
+  "LQI": 120, 
+  "XD1": 340, 
+  "Function": 68, 
+  "BACK2": 0, 
+  "PANID1": 340, 
+  "PANID2": 340, 
+  "BACK1": 0, 
+  "EDID": 1234567890, 
+  "FAC": 340, 
+  "TYPE": 340, 
+  "XD2": 340
+ }
+]
+
+123123
+NoTask 
+[
+ {
+  "Next": 0, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }
+]
+
+XGCS
+[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "Function": 65, 
+  "INDEX": 1, 
+  "ADDR": 1230, 
+  "VAL": 65535
+ }, 
+ {
+  "Function": 65, 
+  "INDEX": 2, 
+  "ADDR": 1230, 
+  "VAL": 65535
+ }
+]
+
+JBGJ
+[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "INDEX": 1, 
+  "MARK2": 255, 
+  "X1scale": 340, 
+  "Function": 67, 
+  "Y2scale ": 340, 
+  "LEN": 120, 
+  "X2scale": 340, 
+  "Y1scale ": 340, 
+  "MARK1 ": 255, 
+  "EDID": 1234567890, 
+  "DATA1": [
+   34, 
+   1, 
+   0, 
+   56, 
+   78, 
+   0, 
+   123, 
+   33
+  ]
+ }
+]
+
+KSGJ
+[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "Function": 66, 
+  "INDEX": 1, 
+  "Yscale ": 340, 
+  "MODE": 120, 
+  "DATA3": 340, 
+  "EDID": 1234567890, 
+  "DATA4": 340, 
+  "DATA1": 340, 
+  "Xscale": 340, 
+  "DATA2": 340
+ }
+]
+
+HEART: [
+ {
+  "Total": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Function": 64, 
+  "APID": 1234567890, 
+  "VER": 0, 
+  "XD2": 3, 
+  "XD1": 2, 
+  "PANID": 12045, 
+  "BACK2": 0, 
+  "BACK3": 0, 
+  "BACK1": 0
+ }
+]
+
+JiaQian[
+ {
+  "Total": 1,
+  "SEQUENCE": 1
+ },
+ {
+  "INDEX": 1,
+  "VER": 0,
+  "VoL": 340,
+  "BACK3": 0,
+  "LQI": 120,
+  "XD1": 340,
+  "Function": 68,
+  "BACK2": 0,
+  "PANID1": 340,
+  "PANID2": 340,
+  "BACK1": 0,
+  "EDID": 1234567890,
+  "FAC": 340,
+  "TYPE": 340,
+  "XD2": 340
+ }
+]
+
+YJSC[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "INDEX": 1, 
+  "VER": 0, 
+  "VoL": 340, 
+  "BACK3": 0, 
+  "LQI": 120, 
+  "XD1": 340, 
+  "Function": 68, 
+  "BACK2": 0, 
+  "PANID1": 340, 
+  "PANID2": 340, 
+  "BACK1": 0, 
+  "EDID": 1234567890, 
+  "FAC": 340, 
+  "TYPE": 340, 
+  "XD2": 340
+ }, 
+ {
+  "INDEX": 2, 
+  "VER": 0, 
+  "VoL": 340, 
+  "BACK3": 0, 
+  "LQI": 120, 
+  "XD1": 340, 
+  "Function": 68, 
+  "BACK2": 0, 
+  "PANID1": 340, 
+  "PANID2": 340, 
+  "BACK1": 0, 
+  "EDID": 1234567890, 
+  "FAC": 340, 
+  "TYPE": 340, 
+  "XD2": 340
+ }, 
+ {
+  "INDEX": 3, 
+  "VER": 0, 
+  "VoL": 340, 
+  "BACK3": 0, 
+  "LQI": 120, 
+  "XD1": 340, 
+  "Function": 68, 
+  "BACK2": 0, 
+  "PANID1": 340, 
+  "PANID2": 340, 
+  "BACK1": 0, 
+  "EDID": 1234567890, 
+  "FAC": 340, 
+  "TYPE": 340, 
+  "XD2": 340
+ }
+]
+
+123
+123
+NoTask 
+[
+ {
+  "Next": 0, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }
+]
+
+XGCS
+[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "Function": 65, 
+  "INDEX": 1, 
+  "ADDR": 1230, 
+  "VAL": 65535
+ }, 
+ {
+  "Function": 65, 
+  "INDEX": 2, 
+  "ADDR": 1230, 
+  "VAL": 65535
+ }
+]
+
+JBGJ
+[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "INDEX": 1, 
+  "MARK2": 255, 
+  "X1scale": 340, 
+  "Function": 67, 
+  "Y2scale ": 340, 
+  "LEN": 120, 
+  "X2scale": 340, 
+  "Y1scale ": 340, 
+  "MARK1 ": 255, 
+  "EDID": 1234567890, 
+  "DATA1": [
+   34, 
+   1, 
+   0, 
+   56, 
+   78, 
+   0, 
+   123, 
+   33
+  ]
+ }
+]
+
+KSGJ
+[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "Function": 66, 
+  "INDEX": 1, 
+  "Yscale ": 340, 
+  "MODE": 120, 
+  "DATA3": 340, 
+  "EDID": 1234567890, 
+  "DATA4": 340, 
+  "DATA1": 340, 
+  "Xscale": 340, 
+  "DATA2": 340
+ }
+]
+
+HEART: [
+ {
+  "Total": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Function": 64, 
+  "APID": 1234567890, 
+  "VER": 0, 
+  "XD2": 3, 
+  "XD1": 2, 
+  "PANID": 12045, 
+  "BACK2": 0, 
+  "BACK3": 0, 
+  "BACK1": 0
+ }
+]
+
+JiaQian[
+ {
+  "Total": 1,
+  "SEQUENCE": 1
+ },
+ {
+  "INDEX": 1,
+  "VER": 0,
+  "VoL": 340,
+  "BACK3": 0,
+  "LQI": 120,
+  "XD1": 340,
+  "Function": 68,
+  "BACK2": 0,
+  "PANID1": 340,
+  "PANID2": 340,
+  "BACK1": 0,
+  "EDID": 1234567890,
+  "FAC": 340,
+  "TYPE": 340,
+  "XD2": 340
+ }
+]
+
+YJSC[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "INDEX": 1, 
+  "VER": 0, 
+  "VoL": 340, 
+  "BACK3": 0, 
+  "LQI": 120, 
+  "XD1": 340, 
+  "Function": 68, 
+  "BACK2": 0, 
+  "PANID1": 340, 
+  "PANID2": 340, 
+  "BACK1": 0, 
+  "EDID": 1234567890, 
+  "FAC": 340, 
+  "TYPE": 340, 
+  "XD2": 340
+ }, 
+ {
+  "INDEX": 2, 
+  "VER": 0, 
+  "VoL": 340, 
+  "BACK3": 0, 
+  "LQI": 120, 
+  "XD1": 340, 
+  "Function": 68, 
+  "BACK2": 0, 
+  "PANID1": 340, 
+  "PANID2": 340, 
+  "BACK1": 0, 
+  "EDID": 1234567890, 
+  "FAC": 340, 
+  "TYPE": 340, 
+  "XD2": 340
+ }, 
+ {
+  "INDEX": 3, 
+  "VER": 0, 
+  "VoL": 340, 
+  "BACK3": 0, 
+  "LQI": 120, 
+  "XD1": 340, 
+  "Function": 68, 
+  "BACK2": 0, 
+  "PANID1": 340, 
+  "PANID2": 340, 
+  "BACK1": 0, 
+  "EDID": 1234567890, 
+  "FAC": 340, 
+  "TYPE": 340, 
+  "XD2": 340
+ }
+]
+
+123123
+NoTask 
+[
+ {
+  "Next": 0, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }
+]
+
+XGCS
+[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "Function": 65, 
+  "INDEX": 1, 
+  "ADDR": 1230, 
+  "VAL": 65535
+ }, 
+ {
+  "Function": 65, 
+  "INDEX": 2, 
+  "ADDR": 1230, 
+  "VAL": 65535
+ }
+]
+
+JBGJ
+[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "INDEX": 1, 
+  "MARK2": 255, 
+  "X1scale": 340, 
+  "Function": 67, 
+  "Y2scale ": 340, 
+  "LEN": 120, 
+  "X2scale": 340, 
+  "Y1scale ": 340, 
+  "MARK1 ": 255, 
+  "EDID": 1234567890, 
+  "DATA1": [
+   34, 
+   1, 
+   0, 
+   56, 
+   78, 
+   0, 
+   123, 
+   33
+  ]
+ }
+]
+
+KSGJ
+[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "Function": 66, 
+  "INDEX": 1, 
+  "Yscale ": 340, 
+  "MODE": 120, 
+  "DATA3": 340, 
+  "EDID": 1234567890, 
+  "DATA4": 340, 
+  "DATA1": 340, 
+  "Xscale": 340, 
+  "DATA2": 340
+ }
+]
+
+HEART: [
+ {
+  "Total": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Function": 64, 
+  "APID": 1234567890, 
+  "VER": 0, 
+  "XD2": 3, 
+  "XD1": 2, 
+  "PANID": 12045, 
+  "BACK2": 0, 
+  "BACK3": 0, 
+  "BACK1": 0
+ }
+]
+
+JiaQian[
+ {
+  "Total": 1,
+  "SEQUENCE": 1
+ },
+ {
+  "INDEX": 1,
+  "VER": 0,
+  "VoL": 340,
+  "BACK3": 0,
+  "LQI": 120,
+  "XD1": 340,
+  "Function": 68,
+  "BACK2": 0,
+  "PANID1": 340,
+  "PANID2": 340,
+  "BACK1": 0,
+  "EDID": 1234567890,
+  "FAC": 340,
+  "TYPE": 340,
+  "XD2": 340
+ }
+]
+
+YJSC[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "INDEX": 1, 
+  "VER": 0, 
+  "VoL": 340, 
+  "BACK3": 0, 
+  "LQI": 120, 
+  "XD1": 340, 
+  "Function": 68, 
+  "BACK2": 0, 
+  "PANID1": 340, 
+  "PANID2": 340, 
+  "BACK1": 0, 
+  "EDID": 1234567890, 
+  "FAC": 340, 
+  "TYPE": 340, 
+  "XD2": 340
+ }, 
+ {
+  "INDEX": 2, 
+  "VER": 0, 
+  "VoL": 340, 
+  "BACK3": 0, 
+  "LQI": 120, 
+  "XD1": 340, 
+  "Function": 68, 
+  "BACK2": 0, 
+  "PANID1": 340, 
+  "PANID2": 340, 
+  "BACK1": 0, 
+  "EDID": 1234567890, 
+  "FAC": 340, 
+  "TYPE": 340, 
+  "XD2": 340
+ }, 
+ {
+  "INDEX": 3, 
+  "VER": 0, 
+  "VoL": 340, 
+  "BACK3": 0, 
+  "LQI": 120, 
+  "XD1": 340, 
+  "Function": 68, 
+  "BACK2": 0, 
+  "PANID1": 340, 
+  "PANID2": 340, 
+  "BACK1": 0, 
+  "EDID": 1234567890, 
+  "FAC": 340, 
+  "TYPE": 340, 
+  "XD2": 340
+ }
+]
+
+123
+123
+NoTask 
+[
+ {
+  "Next": 0, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }
+]
+
+XGCS
+[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "Function": 65, 
+  "INDEX": 1, 
+  "ADDR": 1230, 
+  "VAL": 65535
+ }, 
+ {
+  "Function": 65, 
+  "INDEX": 2, 
+  "ADDR": 1230, 
+  "VAL": 65535
+ }
+]
+
+JBGJ
+[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "INDEX": 1, 
+  "MARK2": 255, 
+  "X1scale": 340, 
+  "Function": 67, 
+  "Y2scale ": 340, 
+  "LEN": 120, 
+  "X2scale": 340, 
+  "Y1scale ": 340, 
+  "MARK1 ": 255, 
+  "EDID": 1234567890, 
+  "DATA1": [
+   34, 
+   1, 
+   0, 
+   56, 
+   78, 
+   0, 
+   123, 
+   33
+  ]
+ }
+]
+
+KSGJ
+[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "Function": 66, 
+  "INDEX": 1, 
+  "Yscale ": 340, 
+  "MODE": 120, 
+  "DATA3": 340, 
+  "EDID": 1234567890, 
+  "DATA4": 340, 
+  "DATA1": 340, 
+  "Xscale": 340, 
+  "DATA2": 340
+ }
+]
+
+HEART: [
+ {
+  "Total": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Function": 64, 
+  "APID": 1234567890, 
+  "VER": 0, 
+  "XD2": 3, 
+  "XD1": 2, 
+  "PANID": 12045, 
+  "BACK2": 0, 
+  "BACK3": 0, 
+  "BACK1": 0
+ }
+]
+
+JiaQian[
+ {
+  "Total": 1,
+  "SEQUENCE": 1
+ },
+ {
+  "INDEX": 1,
+  "VER": 0,
+  "VoL": 340,
+  "BACK3": 0,
+  "LQI": 120,
+  "XD1": 340,
+  "Function": 68,
+  "BACK2": 0,
+  "PANID1": 340,
+  "PANID2": 340,
+  "BACK1": 0,
+  "EDID": 1234567890,
+  "FAC": 340,
+  "TYPE": 340,
+  "XD2": 340
+ }
+]
+
+YJSC[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "INDEX": 1, 
+  "VER": 0, 
+  "VoL": 340, 
+  "BACK3": 0, 
+  "LQI": 120, 
+  "XD1": 340, 
+  "Function": 68, 
+  "BACK2": 0, 
+  "PANID1": 340, 
+  "PANID2": 340, 
+  "BACK1": 0, 
+  "EDID": 1234567890, 
+  "FAC": 340, 
+  "TYPE": 340, 
+  "XD2": 340
+ }, 
+ {
+  "INDEX": 2, 
+  "VER": 0, 
+  "VoL": 340, 
+  "BACK3": 0, 
+  "LQI": 120, 
+  "XD1": 340, 
+  "Function": 68, 
+  "BACK2": 0, 
+  "PANID1": 340, 
+  "PANID2": 340, 
+  "BACK1": 0, 
+  "EDID": 1234567890, 
+  "FAC": 340, 
+  "TYPE": 340, 
+  "XD2": 340
+ }, 
+ {
+  "INDEX": 3, 
+  "VER": 0, 
+  "VoL": 340, 
+  "BACK3": 0, 
+  "LQI": 120, 
+  "XD1": 340, 
+  "Function": 68, 
+  "BACK2": 0, 
+  "PANID1": 340, 
+  "PANID2": 340, 
+  "BACK1": 0, 
+  "EDID": 1234567890, 
+  "FAC": 340, 
+  "TYPE": 340, 
+  "XD2": 340
+ }
+]
+
+123123
+NoTask 
+[
+ {
+  "Next": 0, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }
+]
+
+XGCS
+[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "Function": 65, 
+  "INDEX": 1, 
+  "ADDR": 1230, 
+  "VAL": 65535
+ }, 
+ {
+  "Function": 65, 
+  "INDEX": 2, 
+  "ADDR": 1230, 
+  "VAL": 65535
+ }
+]
+
+JBGJ
+[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "INDEX": 1, 
+  "MARK2": 255, 
+  "X1scale": 340, 
+  "Function": 67, 
+  "Y2scale ": 340, 
+  "LEN": 120, 
+  "X2scale": 340, 
+  "Y1scale ": 340, 
+  "MARK1 ": 255, 
+  "EDID": 1234567890, 
+  "DATA1": [
+   34, 
+   1, 
+   0, 
+   56, 
+   78, 
+   0, 
+   123, 
+   33
+  ]
+ }
+]
+
+KSGJ
+[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "Function": 66, 
+  "INDEX": 1, 
+  "Yscale ": 340, 
+  "MODE": 120, 
+  "DATA3": 340, 
+  "EDID": 1234567890, 
+  "DATA4": 340, 
+  "DATA1": 340, 
+  "Xscale": 340, 
+  "DATA2": 340
+ }
+]
+
+HEART: [
+ {
+  "Total": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Function": 64, 
+  "APID": 1234567890, 
+  "VER": 0, 
+  "XD2": 3, 
+  "XD1": 2, 
+  "PANID": 12045, 
+  "BACK2": 0, 
+  "BACK3": 0, 
+  "BACK1": 0
+ }
+]
+
+JiaQian[
+ {
+  "Total": 1,
+  "SEQUENCE": 1
+ },
+ {
+  "INDEX": 1,
+  "VER": 0,
+  "VoL": 340,
+  "BACK3": 0,
+  "LQI": 120,
+  "XD1": 340,
+  "Function": 68,
+  "BACK2": 0,
+  "PANID1": 340,
+  "PANID2": 340,
+  "BACK1": 0,
+  "EDID": 1234567890,
+  "FAC": 340,
+  "TYPE": 340,
+  "XD2": 340
+ }
+]
+
+YJSC[
+ {
+  "Next": 1, 
+  "SEQUENCE": 1
+ }, 
+ {
+  "Status": 0, 
+  "INDEX": 0
+ }, 
+ {
+  "INDEX": 1, 
+  "VER": 0, 
+  "VoL": 340, 
+  "BACK3": 0, 
+  "LQI": 120, 
+  "XD1": 340, 
+  "Function": 68, 
+  "BACK2": 0, 
+  "PANID1": 340, 
+  "PANID2": 340, 
+  "BACK1": 0, 
+  "EDID": 1234567890, 
+  "FAC": 340, 
+  "TYPE": 340, 
+  "XD2": 340
+ }, 
+ {
+  "INDEX": 2, 
+  "VER": 0, 
+  "VoL": 340, 
+  "BACK3": 0, 
+  "LQI": 120, 
+  "XD1": 340, 
+  "Function": 68, 
+  "BACK2": 0, 
+  "PANID1": 340, 
+  "PANID2": 340, 
+  "BACK1": 0, 
+  "EDID": 1234567890, 
+  "FAC": 340, 
+  "TYPE": 340, 
+  "XD2": 340
+ }, 
+ {
+  "INDEX": 3, 
+  "VER": 0, 
+  "VoL": 340, 
+  "BACK3": 0, 
+  "LQI": 120, 
+  "XD1": 340, 
+  "Function": 68, 
+  "BACK2": 0, 
+  "PANID1": 340, 
+  "PANID2": 340, 
+  "BACK1": 0, 
+  "EDID": 1234567890, 
+  "FAC": 340, 
+  "TYPE": 340, 
+  "XD2": 340
+ }
+]
+
+123
+
+123
+123
